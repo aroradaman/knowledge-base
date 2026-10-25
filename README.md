@@ -5,6 +5,7 @@ A personal repository of learning guides and reference materials for various pro
 ## Projects
 
 - **[cluster-api](cluster-api/)** — Comprehensive guides for Kubernetes Cluster API, built for contributors moving toward maintainership. Start with [cluster-api/learning-path.md](cluster-api/learning-path.md).
+- **[agent-substrate](agent-substrate/)** — Comprehensive guides for Agent Substrate, the zero-trust runtime that multiplexes stateful agent workloads onto warm Kubernetes worker pods. Start with [agent-substrate/learning-path.md](agent-substrate/learning-path.md), or [agent-substrate/end-to-end-on-kind.md](agent-substrate/end-to-end-on-kind.md) for the whole system traced through one request.
 
 ## Structure
 
@@ -21,4 +22,4 @@ Each project folder contains:
 
 ---
 
-**Last updated:** 2026-09-26
+**Last updated:** 2026-10-17
